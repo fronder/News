@@ -8,7 +8,7 @@ In order to build the project, you should open **SampleCode.xcworkspace**
 
 ## Testing:
 * To test the project choose the SampleCodeTests file from the left pane 
-* You may run the test by clicking a little grey diamond shaped buttons in the gutter of the editor area or just use command "cmd+u" to operate full test
+* You may run the test by clicking little grey diamond shaped buttons in the gutter of the editor area or just use command "cmd+u" to operate full test
 * Once you run all the test the code coverage report will be generated
 * To find the code coverage report, Goto the navigation area and find the button 'Show the Report Navigator' on the top of navigation area. It's usually the last button
 * Click on the button to open the List of test reports in this list you'll find the 'Coverage' item
